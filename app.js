@@ -26,5 +26,3 @@ mongoose.connect(process.env.MONGO_URI)
 .catch(error=>{
     console.log(error)
 })
-
-'mongodb+srv://harshitvishwakarma007:HarshitWithNoSpecialCharacter@cluster1.22i9t1u.mongodb.net/assignment'
